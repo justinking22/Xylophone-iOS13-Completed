@@ -11,3 +11,6 @@ Entertainment: A simple and fun way for kids or adults to play with music.
 Learning Music: Helps users learn basic notes and sounds interactively.
 Practice Project: A great way to explore UIKit and AVFoundation for handling sound in iOS apps.
 In summary, the Xylophone App combines UIKit and AVFoundation to create an engaging, musical experience. It serves as a fun learning tool for both music enthusiasts and developers interested in working with audio and UI components in Swift.
+
+
+<img src="X.png" width="200">
