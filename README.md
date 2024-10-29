@@ -13,4 +13,4 @@ Practice Project: A great way to explore UIKit and AVFoundation for handling sou
 In summary, the Xylophone App combines UIKit and AVFoundation to create an engaging, musical experience. It serves as a fun learning tool for both music enthusiasts and developers interested in working with audio and UI components in Swift.
 
 
-<img src="X.png" width="200">
+<img src="X.png" width="400">
